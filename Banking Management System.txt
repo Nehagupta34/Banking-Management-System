@@ -375,11 +375,11 @@ void deposit_withdraw(int n, int option)
 
 void intro()
 {
-	cout<<"\n\n\n\t  BANK";
+	cout<<"\n\n\n\t  BANKING";
 	cout<<"\n\n\tMANAGEMENT";
 	cout<<"\n\n\t  SYSTEM";
 	cout<<"\n\n\n\nMADE BY : Neha Gupta";
-	cout<<"\n\nSCHOOL : Graphic Era Deemed University";
+	cout<<"\n\nCOLLEGE : Graphic Era Deemed University";
 	cin.get();
 }
 
